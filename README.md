@@ -1,6 +1,9 @@
 # Contacts-Project
 this is simple but advanced react project using raect router lib 
 
+you can try it out!! [here](https://contacts-project.netlify.app/)
+
+
 ##How to use 
 - simply click new button to add new contact
 - fill the contact info and save
