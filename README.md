@@ -11,4 +11,4 @@ this is simple but advanced react project using raect router lib
 
 ## sample
 
-![project sample](/public/contacts-project-sample.JPG)
+![project sample](./public/contacts-project-sample.JPG)
